@@ -1,0 +1,22 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ThinkPad Battery icon for Plasma 5
+Comment=This plugin mimmicks Lenovo's Battery tray icon from Windows 10
+Icon=battery
+Type=Service
+
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Ognjen Galic
+X-KDE-PluginInfo-Email=smclt30p@gmail.com
+X-KDE-PluginInfo-License=BSD
+X-KDE-PluginInfo-Name=org.thinkpads.batteryctl.applet
+X-KDE-PluginInfo-Version=1.0.0
+X-KDE-PluginInfo-Website=https://thinkpads.org/projects/batteryctl
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-NotificationArea=true
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
+
+X-KDE-PluginInfo-Category=System Information
