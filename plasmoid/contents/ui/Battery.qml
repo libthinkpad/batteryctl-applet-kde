@@ -48,8 +48,8 @@ Item {
         id: perc
         text: "---"
         color: "#FFFFFF"
-        anchors.verticalCenter: parent.verticalCenter
-        anchors.horizontalCenter: parent.horizontalCenter
+        anchors.verticalCenter: fill.verticalCenter
+        anchors.horizontalCenter: fill.horizontalCenter
         font.pixelSize: 14
     }
 
